@@ -1,0 +1,259 @@
+@charset "utf-8";
+/* CSS Document */
+/*topo*/
+body{
+	
+	font-family:Verdana, Geneva, sans-serif;
+	line-height:20px;
+	font-size:16px;
+	color:#666;
+
+}
+
+.top{
+	
+	background:url(../imagem/backtop.jpg);
+	width:800px;
+	height:150px;
+	border-bottom:10px solid #0C0;
+	margin:auto;
+	
+	
+	
+}
+
+.logo{
+	
+	float:left;
+	background:url(../imagem/Imagnes%20tralaho%20lp/decox.png);
+	width:160px;
+	height:80px;
+	position:relative;
+	margin:40px 0 0 35px;
+	
+}
+
+.top .menu ul{
+	
+	position:relative;
+	float:left;
+	margin:70px 25px 0 0;
+	
+}
+
+.top .menu ul li{
+	
+	display:inline;
+	padding: 10px 0 0 60px;
+	flaot:none;
+}
+
+.top .menu ul li a{
+	
+	color: #FFF;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.top .menu ul li a:hover{
+	
+	text-decoration:underline;
+	color:#000;
+}
+
+.top .menu ul li .active{
+	
+	color: #0C3;
+	font-weight: bold
+	
+}
+
+#fh{
+	width:940px;
+	height:770px;
+	margin:10px auto 20px auto;
+	background-color:#FFF;
+}
+
+.img1{
+	background:url(../imagem/Imagnes%20tralaho%20lp/BRAIRUA.png);
+	width:450px;
+	height:300px;
+	float:left;
+	position:relative;
+	margin:15px;
+	
+}
+
+.txt1{
+	width:420px;
+	height:300px;
+	float:left;
+	position:relative;
+	margin:15px;
+	
+}
+
+.txt1 h1{
+	font-size:26px;
+	color:#000;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.txt1 p{
+	text-align:justify;
+}
+
+.regua{
+	width:900px;
+	margin:auto;
+	border:1px solid #666;
+	clear:both;
+}
+
+.img2{
+	background:url(../imagem/Imagnes%20tralaho%20lp/img2.jpg);
+	width:900px;
+	height:250px;
+	margin:15px;
+}
+
+.txt2{
+	width:900px;
+	height:150px;
+	position:relative;
+	margin:auto;
+}
+
+.txt2 h1{
+	font-size:26px;
+	color:#000;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.txt2 p{
+	text-align:justify;
+}
+
+.rodape {
+	width:940px;
+	height:120px;
+	margin:20px auto;
+	clear:both;
+	background:url(../imagem/Imagnes%20tralaho%20lp/rodapeee.jpg);
+}
+
+/* fim index */
+#fnew {
+	width:940px;
+	height:550px;
+	margin:10px auto 20px auto;
+	background-color:#FFF;
+}
+.txt3 {
+	width:900px;
+	height:120px;
+	float:left;
+	position:relative;
+	margin:15px;
+}
+.txt3 h1{
+	font-size:26px;
+	color:#000;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.txt3 p {
+	text-align:justify;
+}
+.boximg {
+	position:relative;
+	width:900px;
+	height:350px;
+	margin:20px auto 40px 20px;
+	float:left;
+}
+/* fim new */
+#fren{
+	width:940px;
+	height:550px;
+	margin:10px auto 20px auto;
+	background-color:#FFF;
+}
+.txt4 {
+	width:400px;
+	height:300px;
+	float:left;
+	margin:15px;
+}
+.txt4 h1{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:26px;
+	font-weight:bold;
+	color:#000;
+}
+.txt4 h2{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#000;
+}
+.txt4 h3{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#000;
+}
+.txt p{
+	text-align:justify;
+}
+.textbox{
+	width: 400px;
+	height: 310px;
+	float: left;
+	position: relative;
+	margin: 15px 15px 10px 15px;
+}
+.textbox h1{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:26px;
+	font-weight:bold;
+	color:#000;	
+}
+.textbox h3{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#000;
+}
+
+/* fim ren */
+
+.form{
+	width:400px;
+	height:300px;
+	float:right;
+	margin:15px ;
+}
+.form h2{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:26px;
+	font-weight:bold;
+	color:#000;
+}
+.form h3{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#000;
+}
+	 
+/* fim buy*/
+
+
+
+	
+	
+	
